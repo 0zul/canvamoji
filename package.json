@@ -1,0 +1,20 @@
+{
+  "name": "canvamoji",
+  "version": "1.2.1",
+  "description": "node-canvas with support for discord and twitter based unicode emoji's",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flazepe",
+  "dependencies": {
+    "canvas": "^2.7.0",
+    "twemoji": "^13.0.1"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrVelociti/canvamoji.git"
+  }
+}
